@@ -1,0 +1,6 @@
+{
+  "name": "Omon Qolish Jangi",
+  "description": "Top-down omon qolish jangi o'yini. Dushman to'lqinlaridan omon qoling, qahramoningizni yaxshilang va eng yuqori ballni to'plang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
